@@ -1,0 +1,6 @@
+flask
+numpy
+fastapi
+matplotlib
+seaborn
+scikit-learn
